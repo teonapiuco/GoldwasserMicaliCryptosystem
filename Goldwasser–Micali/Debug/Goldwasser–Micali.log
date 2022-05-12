@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(67,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(71,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(71,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(93,21): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(65,60): warning C4101: 'x': unreferenced local variable
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(65,63): warning C4101: 'n': unreferenced local variable
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(140,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(146,34): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(139,32): warning C4101: 'k': unreferenced local variable
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(139,22): warning C4101: 'nr': unreferenced local variable
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(139,26): warning C4101: 'cpym': unreferenced local variable
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(222,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(229,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Goldwasser–Micali\Goldwasser–Micali\Source.cpp(233,42): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Goldwasser–Micali.vcxproj -> C:\Users\User\source\repos\Goldwasser–Micali\Debug\Goldwasser–Micali.exe
